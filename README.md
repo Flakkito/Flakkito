@@ -3,8 +3,8 @@
 <div align="center">
 
 [![Spotify EDA Recommender](https://img.shields.io/badge/Project-spotify--eda--recommender-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://github.com/Flakkito/spotify-eda-recommender)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-espinosa-vazquez-79a94929a)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santi.dashn@gmail.com)
 
 </div>
 
