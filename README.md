@@ -22,7 +22,7 @@
 
 I'm a Mechatronics Engineering student (8th semester) at Universidad del Valle de México, currently interning at **Hewlett Packard Enterprise** as a **BI & Data Analytics developer**. I build dashboards, data pipelines, and analytical models that turn raw data into decisions.
 
-I'm actively looking for **Data Analytics / Business Intelligence roles in Mexico City**.
+I'm actively looking for **Data Analytics / Business Intelligence / Data Scientist roles in Mexico City**.
 
 ---
 
@@ -76,5 +76,5 @@ I'm actively looking for **Data Analytics / Business Intelligence roles in Mexic
 ---
 
 <div align="center">
-  <sub>Mechatronics Engineering · UVM · Mexico City · Open to Data Analytics & BI roles</sub>
+  <sub>Mechatronics Engineering · Mexico City · Open to Data Analytics, BI & Data Scientist roles </sub>
 </div>
