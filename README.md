@@ -50,6 +50,8 @@ I'm actively looking for **Data Analytics / Business Intelligence / Data Scienti
 |---|---|---|
 | [spotify-eda-recommender](https://github.com/Flakkito/spotify-eda-recommender) | Exploratory data analysis and content-based song recommender built on the Spotify dataset | Python, Pandas, scikit-learn |
 | BI Dashboards | Interactive business dashboards built during internship at HPE covering KPIs, forecasting, and operational metrics | Power BI, DAX, Power Query, SQL |
+| [MNIST Neural Network & Visualizer](https://github.com/Flakkito/MNIST) | Handwritten digit classifier (97.4% test accuracy) with a real-time Pygame visualizer that shows neuron activations and digit probabilities as the model runs | Python, TensorFlow/Keras, Pygame, NumPy, Matplotlib |
+| [Audiobooks Customer Retention](https://github.com/Flakkito/audiobooks-customer-retention) | Binary classifier that predicts repeat audiobook purchases to help focus retention efforts on high-probability buyers (81.7% test accuracy) | Python, TensorFlow/Keras, scikit-learn, Pandas |
 
 ---
 
