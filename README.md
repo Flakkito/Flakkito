@@ -53,16 +53,7 @@ I'm actively looking for **Data Analytics / Business Intelligence / Data Scienti
 | [MNIST Neural Network & Visualizer](https://github.com/Flakkito/MNIST) | Handwritten digit classifier (97.4% test accuracy) with a real-time Pygame visualizer that shows neuron activations and digit probabilities as the model runs | Python, TensorFlow/Keras, Pygame, NumPy, Matplotlib |
 | [Audiobooks Customer Retention](https://github.com/Flakkito/audiobooks-customer-retention) | Binary classifier that predicts repeat audiobook purchases to help focus retention efforts on high-probability buyers (81.7% test accuracy) | Python, TensorFlow/Keras, scikit-learn, Pandas |
 
----
 
-## GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flakkito&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flakkito&layout=compact&theme=radical&hide_border=true)
-
-</div>
 
 ---
 
